@@ -1,5 +1,7 @@
 # Multi-Channel Marketing Analytics Dashboard & Synthetic Data Engine
 
+![Dashboard Preview](dashboard__preview.png)
+
 ## 📌 Project Overview
 This repository contains an end-to-end data analytics pipeline that generates a highly realistic, two-year (2023–2024) synthetic marketing dataset across multiple digital ad ecosystems. The generated data was used to architect a fully interactive executive marketing dashboard in Looker Studio, providing directors with real-time performance tracking and actionable data storytelling.
 
